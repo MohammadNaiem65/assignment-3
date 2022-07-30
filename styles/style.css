@@ -13,3 +13,7 @@ body {
     left: 50%;
     transform: translateY(50%, 50%);
 }
+
+footer {
+    height: 300px;
+}
